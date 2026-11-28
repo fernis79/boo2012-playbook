@@ -1,5 +1,5 @@
-/* Boo FF P12:3 – service worker. Version 1.5 */
-const VERSION = "1.5";
+/* Boo FF P12:3 – service worker. Version 1.6 */
+const VERSION = "1.6";
 const APP = "boo-p12-app-" + VERSION, FILES = "boo-p12-files", FONTS = "boo-p12-fonts";
 const SHELL = ["./", "index.html", "manifest.webmanifest", "icon-192.png", "icon-512.png", "icon-maskable-512.png", "apple-touch-icon.png", "favicon.png"];
 
